@@ -32,7 +32,6 @@
             android:scaleType="centerCrop"
     />
 
-
     <ImageView
             android:id="@+id/left_star"
             android:layout_width="wrap_content"
